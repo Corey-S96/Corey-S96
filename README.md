@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Corey-S96 (My friends call me Corey).
-- 👀 I’m interested in Web Design, Art, Video Games and Skateboarding
+- 👀 I’m interested in Web Design, Art, Video Games and Cars
 - 🌱 I’m currently studying Full Stack Web Development @ York University
 - 📫 Email: schleiningcorey@gmail.com
 
